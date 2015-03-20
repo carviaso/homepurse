@@ -1,0 +1,1 @@
+Small finance application for control of purse
